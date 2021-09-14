@@ -1,10 +1,11 @@
-# Python Bank & Poll
+# `Financial & Election Analysis`
 
-## PyBank
+## Project Description
 
-* Create a Python script for analyzing the financial records of your company. There is a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
+## Financial Analysis
 
-* Create a Python script that analyzes the records to calculate each of the following:
+-  The goal of this project is create a Python script for analyzing the financial records of a company. There is a set of financial data called budget_data.csv. The dataset is composed of two columns: `Date` and `Profit/Losses`.
+- Then, build a Python script that analyzes the records to calculate each of the following:
 
   * The total number of months included in the dataset
 
@@ -15,12 +16,11 @@
   * The greatest increase in profits (date and amount) over the entire period
 
   * The greatest decrease in losses (date and amount) over the entire period
+- The final script will both print the analysis to the terminal and export a text file with the results.
 
-* The final script should both print the analysis to the terminal and export a text file with the results.
+## Election Analysis
 
-## PyPoll
-
-* There is a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Create a Python script that analyzes the votes and calculates each of the following:
+- The goal of this project is to take a set of election data and create a python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
@@ -32,4 +32,21 @@
 
   * The winner of the election based on popular vote.
 
-* The final script should both print the analysis to the terminal and export a text file with the results.
+* The final script will both print the analysis to the terminal and export a text file with the results.
+
+## Languages & Technology Used
+
+- Python
+- Terminal
+
+## Screenshots
+![image](/Images/screenshot1.png)
+
+![image](/Images/screenshot2.png)
+
+![image](/Images/screenshot3.png)
+
+
+## Links
+- [JWhiteAnalytics.com](https://jwhiteanalytics.com)
+- [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
